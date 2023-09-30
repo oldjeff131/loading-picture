@@ -1,5 +1,4 @@
-﻿
-namespace WinFormsApp1
+﻿namespace LoadingPicture
 {
     partial class Form1
     {
